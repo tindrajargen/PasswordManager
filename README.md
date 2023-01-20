@@ -6,6 +6,7 @@ This is a password manager developed by myself and two other students for the pr
 
 #### Co-developers
 Tindra Järgenstedt: https://www.linkedin.com/in/tindra-j%C3%A4rgenstedt-373458257/
+
 Nelly Kvärnplassen: https://www.linkedin.com/in/nelly-kvernplassen-932674203/
 
 #### The project
