@@ -5,9 +5,9 @@ By **Fredrik Gustafsson**, **Tindra Järgenstedt** and **Nelly Kvärnplassen**.
 This is a password manager developed by myself and two other students for the project assignment in our **IS Security** course at Uppsala University during the spring of 2022.
 
 #### Co-developers
-Tindra Järgenstedt: https://www.linkedin.com/in/tindra-j%C3%A4rgenstedt-373458257/
+Tindra Järgenstedt: [GitHub](https://github.com/tindrajargen), [LinkedIn](https://www.linkedin.com/in/tindra-j%C3%A4rgenstedt-373458257/)
 
-Nelly Kvärnplassen: https://www.linkedin.com/in/nelly-kvernplassen-932674203/
+Nelly Kvärnplassen: [LinkedIn](https://www.linkedin.com/in/nelly-kvernplassen-932674203/)
 
 #### The project
 The program works by running the server that will host the encrypted password vault, and performing operations on it using a client application. To store and retrieve passwords, the user must have a master password. This master password is hashed and used in the encryption process. Encryption is done using the AES (Advanced Encryption Standard) library provided by .NET.
