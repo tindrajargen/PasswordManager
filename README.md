@@ -9,6 +9,8 @@ Tindra Järgenstedt: [GitHub](https://github.com/tindrajargen), [LinkedIn](https
 
 Nelly Kvärnplassen: [LinkedIn](https://www.linkedin.com/in/nelly-kvernplassen-932674203/)
 
+Fredrik Gustafsson: [GitHub](https://github.com/fredrikgson)
+
 #### The project
 The program works by running the server that will host the encrypted password vault, and performing operations on it using a client application. To store and retrieve passwords, the user must have a master password. This master password is hashed and used in the encryption process. Encryption is done using the AES (Advanced Encryption Standard) library provided by .NET.
 
